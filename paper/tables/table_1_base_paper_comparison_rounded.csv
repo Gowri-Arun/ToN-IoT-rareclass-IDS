@@ -1,4 +1,0 @@
-Model / Framework,Dataset,Task,Accuracy (%),F1-score (%),Weighted F1 (%),Macro F1 (%),MITM Precision (%),MITM Recall (%),MITM F1 (%),Notes
-Base Paper: Pearson + SMOTE-Tomek / SMOTE-ENN + ML/DL,ToN-IoT,Multi-class,98.67,98.7,,,,,,Reported headline result from base paper
-ToN-IoT-rareclass-IDS: LightGBM OVR + MITM KMeansSMOTE,ToN-IoT,Multi-class,98.96,98.99,98.99,96.39,60.9,90.91,72.94,Proposed final model
-Improvement,ToN-IoT,Multi-class,0.29,0.29,,,,,,Absolute percentage-point improvement

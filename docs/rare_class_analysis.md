@@ -52,4 +52,4 @@ From the final model's confusion matrix:
 - Add pairwise MITM-vs-confuser specialist models
 - Use calibrated probabilities for better decision thresholds
 - Run multiple seeds for variance estimation
-- Compare directly against the base paper pipeline under the same train/test split
+- Compare directly against the reference paper pipeline under the same train/test split

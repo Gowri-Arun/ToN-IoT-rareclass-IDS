@@ -4,8 +4,8 @@ This folder contains rounded CSV tables prepared for paper writing and GitHub di
 
 ## Files
 
-- `table_1_base_paper_comparison_rounded.csv`
-  - Compares the base paper result with the final ToN-IoT-rareclass-IDS model.
+- `table_1_related_work_context_rounded.csv`
+  - Provides reported-result context comparing a related work result with the ToN-IoT-rareclass-IDS final model.
 
 - `table_2_ablation_results_rounded.csv`
   - Reports ablation results across XGBoost, CatBoost, LightGBM, correlation pruning, and MITM sampling ratios.
