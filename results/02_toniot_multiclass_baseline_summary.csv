@@ -1,0 +1,2 @@
+Model,Feature Strategy,Sampling,Task,Accuracy,Balanced Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1,Macro AUC OVR,MI Features,PCA Features
+Random Forest,Log + Mutual Information + PCA,KMeansSMOTE,True multi-class using type column,0.9846715155535549,0.9503085708262328,0.9580103329014491,0.9503085708262328,0.9538965478441861,0.9845913516011341,0.9979049921241252,20,11
